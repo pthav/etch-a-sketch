@@ -17,8 +17,8 @@ body,html{
 }
 
 .container{
-    width: 500px;
-    height: 500px;
+    width: 480px;
+    height: 480px;
     border-width: 5px;
     border-color: black;
     border-style: solid;
